@@ -1,4 +1,8 @@
-#Experimenting with this repository to learn more about react and github pages
+#Experimenting with this repository to learn more about react and github pages.
+
+Visit below link to see the portfolio!
+
+https://agniradhika.github.io/portfolio-rdk/
 
 
 # React + Vite
